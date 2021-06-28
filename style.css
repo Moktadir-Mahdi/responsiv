@@ -1,0 +1,173 @@
+/* Default css */
+*{
+padding: 0;
+margin: 0;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float:right;
+}
+.clearfix::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+img{
+    max-width: 100%;
+}
+/* hrader css */
+.header{
+    background-color: #22c3a3;
+    padding: 20px ;
+}
+.header-left h2{
+    color: #fff;
+    text-decoration: none;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.header-left a{
+    text-decoration: none;
+}
+.header-right{}
+.header-right ul{}
+.header-right ul li{
+    display: inline-block;
+    margin: 10px;
+}
+.header-right ul li a{
+    text-decoration: none;
+    font-size:20px ;
+    color: #fff;
+    transition: .4s;
+}
+.header-right ul li a:hover{
+    color:red;
+}
+/* slider section */
+.slider{
+    background-image: url(https://i.ibb.co/YNn1hN0/assfignmentj.png);
+    background-size: cover;
+    text-align:center;
+    background-repeat: no-repeat;
+    padding: 150px 0px;
+}
+.slider h1{
+color: white;
+font-size: 50px;
+margin-bottom: 15px;
+}
+.slider h4{
+color: white;
+font-size: 20px;
+margin-bottom:60px;
+}
+.slider a{
+    border: 3px solid white;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: white;   
+    transition: .4s; 
+}
+.slider a:hover{
+    color: black;
+    background-color: cornflowerblue;
+}
+/* our services */
+.our-services{
+    background-color: #fff;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.our-services h2{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    margin-top: 35px;
+    margin-bottom: 25px;
+}
+.our-services h4{
+text-align: center;
+color: black;
+}
+.box{
+    width: 24%;
+    margin-left: 1%;
+    margin-top: 40px;
+}
+.box i{
+    color: #1dc19e;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.about-us{
+    border-top: 2px solid #1dc19e;
+    
+}
+.about-us h2{
+    text-align: center;
+    margin-top: 40px;
+    padding-bottom: 20px;
+}
+.about-us h4{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.about-us-left img{
+    margin-left: 30px;
+}
+.about-us-left{
+width: 40%;
+}
+.about-us-right{
+width: 60%;
+}
+.box2 h3{
+    padding: 11px 0px;
+}
+
+
+
+
+.contact-us{
+    background-color:#f6f6f6 ;
+    text-align: center;
+    width: ;
+}
+.contact-us h2{
+    text-align: center;
+    margin-top: 80px;
+}
+.contact-us h4{
+    text-align: center;
+    margin-top: 10px;
+}
+.email{
+    margin-top: 30px;
+    width: 33.3%;
+}
+.email i{
+    color: #1dc19e;;
+}
+
+.footer-icons i{
+    font-size: 30px;
+    margin: 10px;
+    color: white;
+}
+.footer-icons{
+    background-color: teal;
+    padding: 12px 0px;
+    margin-top:20px;
+    text-align: center;
+}
+
+.finnal-footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 10px 0px;
+}

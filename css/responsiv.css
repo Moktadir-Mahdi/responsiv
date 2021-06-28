@@ -1,0 +1,195 @@
+@media(max-width:1110px){
+    .email{
+        
+        width: 100%;
+    }
+}
+@media(max-width:1100px){
+    .float-left{
+        float: none;
+    }
+    .float-right{
+        float: none;
+    }
+    .about-us-left{
+        text-align: center;
+    }
+    .about-us-right{
+        text-align: center;
+    }
+}
+@media(max-width: 950px){
+    .box h3 {
+         display: block;
+         font-size:20px;
+         margin-block-start: 1em;
+         margin-block-end: 1em;
+         margin-inline-start: 0px;
+         margin-inline-end: 0px;
+         font-weight: bold;
+     }
+     .box p{
+         font-size: 15px;
+     }
+ }
+ @media(max-width: 920px){
+     .box p{
+         font-size: 10px;
+     }
+     .box h3 {
+         display: block;
+         font-size:15px;
+     }
+ }
+ @media(max-width:760px){
+    .about-us h2{
+        font-size: 20px;
+        margin-top: 20px;
+    } 
+    .about-us h4{
+        font-size: 12px;
+    }
+}
+@media (max-width: 710px){
+    .header-right ul li a {
+        text-decoration: none;
+        font-size: 15px;
+        color: #fff;
+        transition: .4s;
+    }
+}
+@media(max-width:650px) {
+    .contact-us h2{
+    font-size: 20px;
+    }
+    .contact-us h4{
+      font-size: 12px;  
+    }
+}
+@media(max-width: 624px){
+    .header-left h2 {
+        color: #fff;
+        text-decoration: none;
+        padding-left: 30px;
+        padding-top: 10px;
+        font-size: 18px;
+    }
+}
+
+@media(max-width: 590px){
+    .slider h1 {
+        color: white;
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+    .slider {
+        background-image: url(https://i.ibb.co/YNn1hN0/assfignmentj.png);
+        background-size: cover;
+        text-align: center;
+        background-repeat: no-repeat;
+        padding: 120px 0px;
+    }
+    .slider h4 {
+        color: white;
+        font-size: 15px;
+        margin-bottom: 60px;
+    }
+}
+@media(max-width: 590px){
+    .float-left{
+        float: none;
+    }
+   
+}
+@media(max-width:590px){
+    .footer-icons i{
+        font-size: 20px;
+    }
+    .footer-icons{
+        background-color: teal;
+        padding: 9px 0px;
+        margin-top:20px;
+        text-align: center;
+    }
+}
+@media(max-width: 585px){
+    .float-left{
+        float: none;
+    }
+    .header-left{
+        text-align: center;
+    }
+    .float-right{
+        float: none;
+    }
+    .header-right{
+        text-align: center;
+    }
+    
+}
+@media(max-width:576px) {
+    .contact-us h2{
+    font-size: 15px;
+    }
+    .contact-us h4{
+      font-size: 9px;  
+    }
+}
+@media(max-width:570px){
+    .about-us h2{
+        font-size: 15px;
+        margin-top: 20px;
+    } 
+    .about-us img{
+        max-width: 100%;
+    }
+    .about-us h4{
+        font-size: 8px;
+    }
+}
+@media(max-width: 546px){
+    .our-services h4 {
+        text-align: center;
+        color: black;
+        font-size: 12px;
+    }
+}
+@media(max-width: 450px){
+    .slider h1 {
+        color: white;
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .slider h4 {
+        color: white;
+        font-size: 10px;
+        margin-bottom: 30px;
+    }
+}
+
+@media(max-width: 410px){
+    .our-services h4 {
+        text-align: center;
+        color: black;
+        font-size: 9px;
+    }
+    .our-services h2 {
+        text-align: center;
+        font-size: 20px;
+        color: black;
+        margin-top: 35px;
+        margin-bottom: 25px;
+    }
+}
+@media(max-width:402px){
+    .contact-us p{
+        font-size: 10px;
+    }
+}
+
+
+
+
+
+
+
